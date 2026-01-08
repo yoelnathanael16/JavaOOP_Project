@@ -1,8 +1,8 @@
 Anggota Kelompok:
--Jason Hermawan
--Yoel Nathanael
--Matthew Vandersen
--Muhammad Fatra Mahdivikia Rusli
+-Jason Hermawan (2802441875)
+-Yoel Nathanael (2802445766)
+-Matthew Vandersen (2802444813)
+-Muhammad Fatra Mahdivikia Rusli (2802445444)
 
 Step By Step:
 1. Download JDK 21 x64 MSI Installer (jika windows) dan JavaFX 21.0.9 (kalau JDK 21 ga bisa berarti yang 25 aja)
