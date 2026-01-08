@@ -1,3 +1,10 @@
+Anggota Kelompok:
+-Jason Hermawan
+-Yoel Nathanael
+-Matthew Vandersen
+-Muhammad Fatra Mahdivikia Rusli
+
+Step By Step:
 1. Download JDK 21 x64 MSI Installer (jika windows) dan JavaFX 21.0.9 (kalau JDK 21 ga bisa berarti yang 25 aja)
 2. Download dan buka Eclipse IDE
 3. Install e(fx)clipse 3.8.0 di Eclipse Marketplace... (ada di "Help" diatas)
