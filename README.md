@@ -17,6 +17,7 @@
 16. Setelah Apply, klik "Dependencies" diatas, Remove JavaFX di Classpath Entries
 17. Di Modulepath Entries, Advanced > Add Library > User Library > JavaFX tambahkan
 18. Finish kalau sudah, lalu Apply dan kemudian Run
+19. Untuk CSV, bikin folder data di eclipse, lalu drag file semua CSV yang didapat dari GitHub ke folder data yang di eclipse
 
 
 git init
