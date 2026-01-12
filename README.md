@@ -26,6 +26,8 @@ Step By Step:
 18. Finish kalau sudah, lalu Apply dan kemudian Run
 19. Untuk CSV, bikin folder data di eclipse, lalu drag file semua CSV yang didapat dari GitHub ke folder data yang di eclipse
 
+link video demonstrasi: https://youtu.be/zfQ0QiQFwGc?si=kytafZNh7wjdn1rM
+
 
 git init
 git add README.md
